@@ -12,7 +12,8 @@
 This application is the back end of an E-commere website. You can check the end routes of your products, categoires, and tags!
 ## Installation 
 Download all required packages using `npm i` then make sure to long into mysql and source your schema. Then `npm run seed`. and finaly `node server.js`.
-## Walk Through
+## Walk Through Video Link
+https://drive.google.com/file/d/12HpIikD_LYSR-NcWHsURUVABvsLDM0ae/view
 
 ## Questions
 Please feel free to reach out to me at: hannah2edwards3@gmail.com
